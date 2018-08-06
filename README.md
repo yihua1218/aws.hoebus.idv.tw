@@ -7,3 +7,4 @@
 3. OpenVPN Server
 4. Static Server
 5. API Service
+6. Syslog Server
